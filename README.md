@@ -31,7 +31,7 @@ Make sure Python 3.x is installed. Download from: https://www.python.org/downloa
 
 ### Step 2: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/crop-price-prediction.git
+https://github.com/udayhacks/-Crop-Price-Prediction-Using-Machine-Learning.git
 cd crop-price-prediction
 ```
 
